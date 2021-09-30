@@ -1,0 +1,31 @@
+{
+    "products":[
+           
+        {"_id":"house1",
+         "title":"john-House",
+         "image":"/images/house1.jpg",
+         "dscription":" Minimum stay is 1 day, Maximum 30 days.",
+         "price":8000 ,
+         "availableSizes":["two_rooms"]
+
+        },
+        
+        {"_id":"house2",
+            "title":"Andrew_house",
+            "image":"/images/house2.jpg",
+            "dscription":" Minimum stay is 1 day, Maximum 14 days",
+            "price":1900,
+            "availableSizes":["five Rooms"]
+
+        },
+           
+            {"_id":"house21",
+                "title":"Andrew_house",
+                "image":"/images/house21.jpg",
+                "dscription":"Minimum stay is 1 day, Maximum 14 days",
+                "price":1590 ,
+                "availableSizes":["five Rooms"]
+
+            }          
+    ]
+}
